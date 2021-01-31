@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a15685c-ebe3-4885-bf44-ada35cb9d55f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W9CRkOGyUW0FilNBTtPuhEqGl3" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JavaScript" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Diamo\Desktop\welkome to mogo\.idea" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a15685c-ebe3-4885-bf44-ada35cb9d55f" name="Default Changelist" comment="" />
+      <created>1578552417447</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578552417447</updated>
+      <workItem from="1578552418849" duration="21405000" />
+      <workItem from="1578589879914" duration="8131000" />
+      <workItem from="1578637138508" duration="17723000" />
+      <workItem from="1578678527611" duration="6369000" />
+      <workItem from="1578984710610" duration="949000" />
+      <workItem from="1579163443256" duration="4707000" />
+      <workItem from="1579177575868" duration="5238000" />
+      <workItem from="1579189857729" duration="15152000" />
+      <workItem from="1579249235279" duration="9037000" />
+      <workItem from="1579289067670" duration="6757000" />
+      <workItem from="1579502905188" duration="8375000" />
+      <workItem from="1579540694874" duration="6613000" />
+      <workItem from="1579586759793" duration="13370000" />
+      <workItem from="1579763164707" duration="690000" />
+      <workItem from="1579851159462" duration="13192000" />
+      <workItem from="1579948893013" duration="5292000" />
+      <workItem from="1580040559955" duration="9549000" />
+      <workItem from="1580064807452" duration="2907000" />
+      <workItem from="1580105407120" duration="7349000" />
+      <workItem from="1580149054062" duration="2217000" />
+      <workItem from="1580191819155" duration="8564000" />
+      <workItem from="1580231207887" duration="5927000" />
+      <workItem from="1580366208172" duration="4712000" />
+      <workItem from="1580380085406" duration="1965000" />
+      <workItem from="1580399383241" duration="5603000" />
+      <workItem from="1580451300752" duration="12204000" />
+      <workItem from="1580496069314" duration="1262000" />
+      <workItem from="1580658946742" duration="1202000" />
+      <workItem from="1580756758836" duration="1450000" />
+      <workItem from="1580902457716" duration="21716000" />
+      <workItem from="1580979375443" duration="7458000" />
+      <workItem from="1581006247169" duration="5044000" />
+      <workItem from="1581071155885" duration="13110000" />
+      <workItem from="1581173478033" duration="13093000" />
+      <workItem from="1581321316737" duration="6307000" />
+      <workItem from="1581362132317" duration="4934000" />
+      <workItem from="1581409789995" duration="12551000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
